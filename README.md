@@ -1,2 +1,4 @@
 # Portfolio-Website
-Portfolio website hosted on AWS S3
+I created a statis website on AWS S3 and setup https with AWS Cloudfront.
+
+The website can be seen here: https://ron-mercier101.com
